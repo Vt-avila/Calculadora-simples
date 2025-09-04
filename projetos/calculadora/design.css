@@ -1,0 +1,54 @@
+*{
+    background-color: rgba(24, 23, 23, 0.877);
+    color: white;
+}
+
+body{
+    display: flex;
+    justify-content: center; 
+}
+
+.container{
+    
+    padding: 10px;
+    border: solid 0.7mm gray;
+    border-radius: 10px; 
+    position:absolute;
+}
+
+header{
+    
+}
+
+input{
+    padding: 10px;
+    text-align: end;
+    width: 100%;
+    border: solid 0.7mm gray;
+    border-radius: 10px;
+}
+
+table{
+    margin-top: 10px;
+    width: 100%;
+}
+
+
+
+td{
+    padding: 5px;
+    text-align: center;
+    width: 25%;
+}
+
+.diferentColor{
+    background-color: rgb(1, 96, 151) !important; 
+}
+
+button{
+    background-color: rgb(78, 78, 78);
+    padding: 15px;
+    border: none;
+    border-radius: 100%;
+    width: 100%;
+}
